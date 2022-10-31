@@ -12,6 +12,8 @@ public class ToCharArray {
 		char[] charArray = longStr.toCharArray();
 		System.out.println("char[] length --> " + charArray.length);
 		
+		
+		
 		for(char el: charArray) {
 			System.out.print(el);
 			
