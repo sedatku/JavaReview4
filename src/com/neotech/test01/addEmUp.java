@@ -50,8 +50,8 @@ public class addEmUp {
 					maxPlayers = maxPlayers + " = " + playerName;
 				}
 				max = sum;	
-			}
-			//max = Math.max(max, sum);
+			}	
+			
 		}
 		System.out.println("maxPlayers = " + maxPlayers +" Max = " + max );
 
